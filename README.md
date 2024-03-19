@@ -7,7 +7,7 @@
 <div style="text-align:center;">
   <a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; background-color: #FF0000; padding: 20px; border-radius: 10px;">
     <img src="https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj" alt="Channel Profile Picture" style="display: inline-block; vertical-align: middle; border-radius: 50%; width: 100px; height: 100px; border: 2px solid red;">
-    <span style="display: inline-block; vertical-align: middle; font-size: 24px; color: white; margin-left: 20px;">LazyMattman</span>
+    <h2 style="display: inline-block; vertical-align: middle; font-size: 24px; color: white; margin-left: 20px; text-decoration: none;">LazyMattman</h2>
   </a>
 </div>
 
