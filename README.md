@@ -5,11 +5,12 @@
 # 📼 Featured Content:
 <h3>Check out my Binding of Issac: Repentance mod from these channels!</h3>
 <div style="text-align:center;">
-  <a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="_blank" rel="noopener noreferrer">
-    <img src="https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj" alt="Channel Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; border: 2px solid red;">
+  <a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none; background-color: #FF0000; padding: 20px; border-radius: 10px;">
+    <img src="https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj" alt="Channel Profile Picture" style="display: inline-block; vertical-align: middle; border-radius: 50%; width: 100px; height: 100px; border: 2px solid red;">
+    <span style="display: inline-block; vertical-align: middle; font-size: 24px; color: white; margin-left: 20px;">LazyMattman</span>
   </a>
-  <p style="font-size: 24px; color: red; margin-top: 10px;">LazyMattman</p>
 </div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethandavidfrancis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/macleod-ethan) 
