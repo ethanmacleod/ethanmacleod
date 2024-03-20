@@ -6,7 +6,7 @@
 <h3>Check out my Binding of Issac: Repentance mod from these channels!</h3>
 
 <p align="left">
-<a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj)" alt="lazyMattman" height="60" width="60" /><h2>LazyMattman</h2></a>
+<a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj" alt="lazyMattman" height="60" width="60" /><h2>LazyMattman</h2></a>
 </p>
 
 
