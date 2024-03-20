@@ -7,11 +7,9 @@
 
 <p align="left">
 <a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="blank"><img align="center" src="https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj" alt="lazyMattman" height="60" width="60" /></a>
+  <a href="https://www.youtube.com/watch?v=EV8JlktQMJE&ab_channel=Socko" target="blank"><img align="center" src="https://yt3.googleusercontent.com/W4XMENtpeGEI00Jy3S1gyZ6Weamfz2j-fTaV41wLctkxkanHVaa9S9JJ4knB4AB3_hIsVSUrCA=s176-c-k-c0x00ffffff-no-rj" alt="lazyMattman" height="60" width="60" /></a>
 </p>
 
-<p align="left">
-<a href="https://www.youtube.com/watch?v=enXsD2pn4Fw&ab_channel=LazyMattman" target="blank"><img align="center" src="https://yt3.googleusercontent.com/UdxXxE4am-_qFJvOqZSyZfcS5b3XneCD0BzuETunuTtDQPjeYijRReEtBYmuPRsuJY5ywGyd=s176-c-k-c0x00ffffff-no-rj" alt="lazyMattman" height="60" width="60" /></a>
-</p>
 
 
 ## 🌐 Socials:
